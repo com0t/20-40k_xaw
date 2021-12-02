@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "Facebook Rating"
+msgstr "Facebook Рейтинг"
+
+msgid "See All Reviews"
+msgstr "Смотреть все отзывы"
+
+msgid "read more"
+msgstr "читать далее"
+
+msgid "Next Reviews"
+msgstr "Следующие отзывы"
+
+msgid "powered by %s"
+msgstr "powered by %s"
+
+msgid "Based on %s reviews"
+msgstr "Основано на отзывах: %s"
